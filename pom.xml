@@ -29,4 +29,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <properties>
+      <sonar.organization>pixee-bot-sunbird</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
 </project>
